@@ -10,3 +10,5 @@
 7. 在`predict.py`脚本中将`img_path`设置成你自己需要预测的图片绝对路径
 8. 设置好权重路径`model_weight_path`和预测的图片路径`img_path`就能使用`predict.py`脚本进行预测了
 9. 如果要使用自己的数据集，请按照花分类数据集的文件结构进行摆放(即一个类别对应一个文件夹)，并且将训练以及预测脚本中的`num_classes`设置成你自己数据的类别数
+![image](https://github.com/SkyKingL/VIT/assets/95171250/ed158857-464b-4a58-b2ad-79e70c996c48)
+![image](https://github.com/SkyKingL/VIT/assets/95171250/6215f1e8-7e74-45ae-ac85-88078c16b3a2)
